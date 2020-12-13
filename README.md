@@ -1,5 +1,5 @@
 # Tripadvisor-Restaurants-Scraper
-# Requirements
+## Requirements
 
 - Google Chrome v88 (Beta current)
 - Python 3.7
